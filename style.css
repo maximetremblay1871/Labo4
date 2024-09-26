@@ -1,0 +1,31 @@
+.réalisateurs{
+    color: yellowgreen;
+    font-size: 25px;
+    list-style: none;
+}
+.film {
+    list-style-type: upper-latin;
+    color: white;
+    font-size: 18px;
+}
+.acteur {
+    list-style-type: disc;
+    color: white;
+    font-size: 17px;
+}
+body{
+    background-image:url(images/cinema.jpg) ;
+    background-position: top center;
+    background-size: cover;
+    text-align: left;
+    padding-left: 16px;
+    font-family: sans-serif;
+    margin-left: 1px;
+}
+h1{
+    color: white;
+    padding-left: 20px;
+}
+.main {
+    padding-left: 4px;
+}
